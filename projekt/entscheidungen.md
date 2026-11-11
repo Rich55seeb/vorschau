@@ -16,7 +16,9 @@
 | 2026-11-11 | **Portal:** ist bei Texora schon vorhanden und wird mit schülerrelevanten Artikeln befüllt. |
 | 2026-11-11 | **Ziel:** Zusammengehörigkeitsgefühl stärken („College-/Uni-Merch-Gefühl“). Die Zielgruppe wählt selbst aus: Die Übungsfirma entscheidet, welche Produkte an Schulen gut gehen – nicht Texora. |
 | 2026-11-11 | **Vereinbarung mit der Schule:** Modell (EduPay-Zugang, Sammelrechnung an die Schule) wurde laut Richard in der Besprechung vom 10.11.2026 mit der Schule vereinbart. |
+| 2026-11-11 | **Produktauswahl:** Rahmen durch Texora – Schauraum + Katalog im Unternehmen. Das Kernteam (3–4 verantwortliche Schüler, die „Köpfe“ der Übungsfirma, nicht die ganze Klasse) kommt im November ins Unternehmen und fixiert dort die Artikel. Termin: 13. oder 19.11.2026 (noch zu klären). |
 
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).
 - Ansprechperson an der Schule (Freigabe, Rechnung) noch nicht namentlich festgehalten.
+- Termin Schülerbesuch im Unternehmen unklar (13. oder 19.11.); 13.11. ist laut Mitschnitt auch der Schnuppertag (ca. 3 Schüler, 08:00–12:00) – gleicher Termin?
