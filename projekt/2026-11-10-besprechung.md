@@ -35,4 +35,4 @@
 1. Produkt- und Designfreigabe (Teile, Farben, Platzierungen, Machbarkeit)
 2. Stückzahlen, Lieferanten, Veredelungspartner
 3. Zuständigkeiten Schule/Übungsfirma vs. Betrieb (Shop, Bestellungen, Zuzahlung)
-4. Projektfokus: Merchandise oder alternative Konzepte (z. B. Landmaschinen)
+4. ~~Projektfokus~~ → entschieden: nur Merch & Fanshop (siehe entscheidungen.md)
