@@ -20,8 +20,10 @@
 | 2026-11-11 | **Schüler entwickeln das Geschäftsmodell selbst.** Texora gibt nichts vor, sondern unterstützt: Muster mitgeben (ca. 4–10 Artikel), Veredelung zeigen und erklären (Siebdruck, Transferdruck, Stick – Vor- und Nachteile, technisch machbar, Preis). Die Schüler testen in der Schule (z. B. Umfrage) wie in einem echten Geschäftsprozess und entscheiden, was angeboten wird und zu welchem Preis. |
 | 2026-11-11 | **Keine Investition von Texora:** Alles wird bezahlt (Artikel, Poster usw.). |
 | 2026-11-11 | **Bestellfenster statt Dauershop:** 2× pro Schuljahr ein begrenztes Fenster, danach Sammelbestellung und gesammelte Auslieferung an die Schule. Fenster 1: bis Weihnachten (Winterartikel: Hoodies, Kappen, Mützen). Fenster 2: rund um Ostern (Sommerartikel: T-Shirts usw.). |
+| 2026-11-11 | **Startzeitpunkt flexibel:** Die zwei Fenster sind das Zielbild für die Zukunft. Ob das erste Fenster schon vor Weihnachten kommt oder erst zu Ostern, hängt davon ab, wie aktiv die Schüler sind. |
 
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).
 - Ansprechperson an der Schule (Freigabe, Rechnung) noch nicht namentlich festgehalten.
 - Termin Schülerbesuch im Unternehmen unklar (13. oder 19.11.); 13.11. ist laut Mitschnitt auch der Schnuppertag (ca. 3 Schüler, 08:00–12:00) – gleicher Termin?
+- Wann und woran wird entschieden, ob das erste Bestellfenster vor Weihnachten oder erst zu Ostern startet?
