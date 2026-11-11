@@ -9,3 +9,9 @@
 | 2026-11-11 | **Aufgaben der Schüler:** Vermarktung (Plakate, Videoanschlagtafeln, Mitschüler überzeugen), Verkauf, Verteilung in der Schule, ganze Abwicklung. Ziel: auch etwas verdienen. |
 | 2026-11-11 | **Aufgaben Texora:** Produktion/Veredelung, Lieferung an die Schule, Anbindung des Portals an das Texora-Geschäft. |
 | 2026-11-11 | **Ausbau:** Schüler erstellen danach ein Konzept („So funktioniert das bei uns“), das anderen Schulen angeboten wird. |
+| 2026-11-11 | **Nicht Teil des Projekts:** Guide-Shirts für den Tag der offenen Tür (16.12.) – die bestellt die Schulleitung separat. |
+| 2026-11-11 | **Laufzeit:** ganzes Schuljahr. |
+| 2026-11-11 | **Abrechnung über EduPay:** Texora bekommt von der Schule Zugang zu einem EduPay-Konto. Eltern/Schüler laden auf, Schüler kaufen damit im Portal. Texora stellt die Rechnung gesammelt nur an die Schule. |
+| 2026-11-11 | **Schüler-Provision:** wird später geregelt (z. B. Prozentsatz oder Betrag zum Projektabschluss), nicht im offiziellen Teil. |
+| 2026-11-11 | **Portal:** ist bei Texora schon vorhanden und wird mit schülerrelevanten Artikeln befüllt. |
+| 2026-11-11 | **Ziel:** Zusammengehörigkeitsgefühl stärken („College-/Uni-Merch-Gefühl“). Die Zielgruppe wählt selbst aus: Die Übungsfirma entscheidet, welche Produkte an Schulen gut gehen – nicht Texora. |
