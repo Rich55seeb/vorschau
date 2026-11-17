@@ -26,4 +26,5 @@
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).
 - Ansprechperson an der Schule (Freigabe, Rechnung) noch nicht namentlich festgehalten.
-- Wann und woran wird entschieden, ob das erste Bestellfenster vor Weihnachten oder erst zu Ostern startet?
+- Wann und woran wird entschieden, ob das erste Bestellfenster vor Weihnachten oder erst zu Ostern startet? (Kein wöchentlicher Termin im Unternehmen gewünscht – Entscheidung kann per Telefon/Mail laufen.)
+- Termin 19.11. ist laut Richard so ausgemacht, aber nirgends eingetragen → kurz mit der Lehrkraft bestätigen.
