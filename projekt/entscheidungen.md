@@ -25,6 +25,7 @@
 | 2026-11-17 | **Preise für die Schüler:** Es wird nur der Lieferpreis von Texora an die Schule gezeigt (inkl. Veredelung und Spanne) – das ist der Einkaufspreis der Übungsfirma. Echte Texora-Einkaufspreise bleiben intern. |
 | 2026-11-17 | **Design:** Texora gibt kein Logo/Motiv vor. Die Schüler entwerfen das Design selbst – Teil ihres Geschäftsmodells. Texora prüft nur die technische Umsetzbarkeit. |
 | 2026-11-17 | **Muster:** Die 5–10 Muster für die Schule sind eine bewusste Investition von Texora (Ausnahme zu „Texora investiert nichts“). Keine Verrechnung bei Verlust oder Schaden. |
+| 2026-11-17 | **Ansprechperson Texora:** Jasmin – fix für das ganze Schuljahr. Richard bleibt für große Entscheidungen zuständig. Jasmin macht am 19.11. den Rundgang. |
 
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).

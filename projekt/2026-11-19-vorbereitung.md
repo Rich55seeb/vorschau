@@ -17,7 +17,7 @@
 | 0:00–0:10 | Ankommen | Begrüßung, Getränk, kurze Vorstellungsrunde (Name, Klasse, Rolle in der Übungsfirma) | lockere Stimmung |
 | 0:10–0:20 | **Zuerst zuhören** | 3 Fragen an die Schüler (siehe unten). Richard hört zu, schreibt mit. | Du weißt, wo sie stehen |
 | 0:20–0:40 | **Gemeinsames Bild** | Die Projekt-Seite gemeinsam durchgehen (siehe unten), Lücken direkt ausfüllen | 1-Seiter fertig |
-| 0:40–1:00 | Firmenrundgang | Produktion zeigen: Siebdruck, Transferdruck, Stick live | Verständnis Technik |
+| 0:40–1:00 | Firmenrundgang (**Jasmin**) | Produktion zeigen: Siebdruck, Transferdruck, Stick live | Verständnis Technik, Schüler kennen Jasmin |
 | 1:00–1:35 | Schauraum | Artikel angreifen, Katalog, Veredelungs-Vergleich, Preise | Auswahl 5–10 Muster |
 | 1:35–1:50 | **Wie geht's weiter** | Nächste Schritte mit Datum und Namen festhalten | Fahrplan |
 | 1:50–2:00 | Abschluss | Muster + Musterliste übergeben, Foto für Social Media/Plakat (nur mit Einverständnis, sonst nur Hände/Ware) | alle wissen Bescheid |
@@ -72,7 +72,7 @@ Zusammengehörigkeit an der Schule stärken – so wie College-/Uni-Merch. Und e
 | Eine fixe Ansprechperson | Eine fixe Ansprechperson bei Texora |
 | Rückmeldung bis zum vereinbarten Datum | Unterstützung bei Technik und Kalkulation |
 
-**Ansprechpersonen:** Übungsfirma: ________  Texora: ________
+**Ansprechpersonen:** Übungsfirma: ________  Texora: **Jasmin**
 
 → Am Ende: beide Seiten unterschreiben symbolisch. Wirkt verbindlich, kostet nichts.
 
@@ -116,7 +116,7 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 - [ ] Katalog + **Lieferpreisliste an die Schule** (Texora-Preis inkl. Veredelung und Spanne = Einkaufspreis der Schüler). **Keine** echten Texora-Einkaufspreise zeigen!
 - [ ] Musterliste (Artikel, Größe, Farbe) – nur zur Übersicht. Muster sind eine **Investition von Texora**, keine Verrechnung bei Verlust/Schaden.
 - [ ] Säcke/Taschen zum Mitnehmen der Muster
-- [ ] Mitarbeiter für Live-Vorführung an den Maschinen einteilen
+- [ ] Jasmin einplanen: ist dabei, macht den Rundgang/Live-Vorführung und wird als fixe Ansprechperson vorgestellt
 - [ ] Bei der Lehrkraft fragen: Gibt es Foto-Einverständniserklärungen (DSGVO, bei Minderjährigen auch Eltern)? Wenn nein → nur Hände/Ware fotografieren, keine Gesichter.
 - [ ] Getränke, kleine Jause
 
