@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="robots" content="noindex,nofollow">
+<title>Schulshop – Demo</title>
+<style>
+:root{--ink:#1d2433;--mute:#5b6577;--line:#dfe5ec;--bg:#f5f7fa;--card:#fff;--acc:#2b6c8f;--acc2:#e9f3f8;--ok:#2f7d4f}
+*{box-sizing:border-box}
+body{margin:0;font-family:system-ui,-apple-system,"Segoe UI",Arial,sans-serif;color:var(--ink);background:var(--bg);line-height:1.45}
+.demo{background:#fff3d6;color:#6b4a00;border-bottom:1px solid #ecd28f;padding:8px 16px;font-size:14px;text-align:center}
+header{background:var(--card);border-bottom:1px solid var(--line)}
+.wrap{max-width:960px;margin:0 auto;padding:0 16px}
+.top{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:14px 0}
+.logo{display:flex;align-items:center;gap:10px;font-weight:700;font-size:20px}
+.logo .mark{width:38px;height:38px;border-radius:10px;border:2px dashed #9aa7b6;display:grid;place-items:center;font-size:11px;color:#8792a2;font-weight:600}
+.cartbtn{border:1px solid var(--line);background:#fff;border-radius:999px;padding:8px 14px;font-size:15px;cursor:pointer}
+.cartbtn b{background:var(--acc);color:#fff;border-radius:999px;padding:1px 8px;margin-left:6px;font-size:13px}
+.window{background:var(--acc);color:#fff}
+.window .wrap{display:flex;flex-wrap:wrap;gap:6px 18px;align-items:center;justify-content:space-between;padding:10px 16px;font-size:15px}
+.window strong{font-size:16px}
+h1{font-size:26px;margin:22px 0 4px}
+.lead{color:var(--mute);margin:0 0 18px}
+.grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(210px,1fr));gap:14px}
+.card{background:var(--card);border:1px solid var(--line);border-radius:14px;overflow:hidden;display:flex;flex-direction:column}
+.pic{background:var(--acc2);height:150px;display:grid;place-items:center}
+.pic svg{width:96px;height:96px}
+.body{padding:12px 14px 14px;display:flex;flex-direction:column;gap:8px;flex:1}
+.name{font-weight:650;font-size:17px}
+.price{font-weight:700}
+.price small{font-weight:400;color:var(--mute);font-size:12px}
+.row{display:flex;gap:8px}
+select{flex:1;padding:7px;border:1px solid var(--line);border-radius:8px;font-size:14px;background:#fff}
+.dots{display:flex;gap:6px}
+.dot{width:22px;height:22px;border-radius:50%;border:2px solid #fff;outline:1px solid var(--line);cursor:pointer}
+.dot.on{outline:2px solid var(--ink)}
+.add{margin-top:auto;background:var(--ink);color:#fff;border:0;border-radius:10px;padding:10px;font-size:15px;cursor:pointer}
+.add:active{transform:scale(.98)}
+.how{margin:28px 0 30px;background:var(--card);border:1px solid var(--line);border-radius:14px;padding:16px}
+.how h2{margin:0 0 10px;font-size:18px}
+.steps{display:grid;grid-template-columns:repeat(auto-fit,minmax(190px,1fr));gap:12px;counter-reset:s}
+.step{background:var(--bg);border-radius:10px;padding:10px 12px;font-size:14px}
+.step b{display:block;margin-bottom:2px}
+.step:before{counter-increment:s;content:counter(s);display:inline-grid;place-items:center;width:24px;height:24px;border-radius:50%;background:var(--acc);color:#fff;font-weight:700;font-size:13px;margin-bottom:6px}
+/* Warenkorb */
+.overlay{position:fixed;inset:0;background:rgba(20,28,40,.45);display:none;align-items:flex-end;justify-content:center;z-index:5}
+.overlay.open{display:flex}
+.sheet{background:#fff;width:100%;max-width:520px;border-radius:16px 16px 0 0;padding:18px 16px 22px;max-height:88vh;overflow:auto}
+@media(min-width:640px){.overlay{align-items:center}.sheet{border-radius:16px}}
+.sheet h2{margin:0 0 12px;font-size:20px}
+.item{display:flex;justify-content:space-between;gap:10px;border-bottom:1px solid var(--line);padding:8px 0;font-size:15px}
+.item .rm{border:0;background:none;color:#a33;cursor:pointer;font-size:13px}
+.sum{display:flex;justify-content:space-between;font-weight:700;font-size:17px;margin:12px 0}
+label{display:block;font-size:13px;color:var(--mute);margin:10px 0 4px}
+input{width:100%;padding:9px;border:1px solid var(--line);border-radius:8px;font-size:15px}
+.pay{width:100%;margin-top:14px;background:var(--acc);color:#fff;border:0;border-radius:10px;padding:12px;font-size:16px;font-weight:600;cursor:pointer}
+.pay:disabled{opacity:.45;cursor:not-allowed}
+.close{float:right;border:0;background:none;font-size:22px;cursor:pointer;color:var(--mute)}
+.hint{font-size:13px;color:var(--mute);margin-top:8px}
+.done{text-align:center}
+.done .check{width:56px;height:56px;border-radius:50%;background:var(--ok);color:#fff;display:grid;place-items:center;font-size:30px;margin:6px auto 10px}
+.track{text-align:left;margin:14px 0 0;padding:0;list-style:none}
+.track li{padding:7px 0 7px 26px;position:relative;font-size:14px;color:var(--mute)}
+.track li:before{content:"";position:absolute;left:6px;top:12px;width:10px;height:10px;border-radius:50%;background:#c6cfda}
+.track li.now{color:var(--ink);font-weight:600}.track li.now:before{background:var(--ok)}
+.toast{position:fixed;left:50%;bottom:18px;transform:translateX(-50%);background:var(--ink);color:#fff;padding:9px 16px;border-radius:999px;font-size:14px;opacity:0;transition:.25s;pointer-events:none}
+.toast.show{opacity:1}
+footer{color:var(--mute);font-size:13px;text-align:center;padding:10px 16px 30px}
+</style>
+</head>
+<body>
+
+<div class="demo"><b>DEMO</b> – so könnte euer Schulshop funktionieren. Name, Design, Artikel und Preise entscheidet <b>ihr</b>.</div>
+
+<header>
+  <div class="wrap top">
+    <div class="logo"><span class="mark">LOGO</span> Euer Shopname</div>
+    <button class="cartbtn" id="cartBtn">🛒 Warenkorb <b id="count">0</b></button>
+  </div>
+  <div class="window"><div class="wrap">
+    <span>🟢 <strong>Bestellfenster ist offen</strong> – Frühjahrskollektion</span>
+    <span>Bestellschluss: <strong>Fr, 12.03.</strong> · noch <strong id="days">–</strong> Tage</span>
+  </div></div>
+</header>
+
+<main class="wrap">
+  <h1>Unsere Kollektion</h1>
+  <p class="lead">Von Schülern für Schüler ausgesucht. Bestellen, mit EduPay bezahlen, in der Schule abholen.</p>
+  <div class="grid" id="grid"></div>
+
+  <section class="how">
+    <h2>So funktioniert's</h2>
+    <div class="steps">
+      <div class="step"><b>Bestellfenster geht auf</b>Die Übungsfirma kündigt es in der Schule an.</div>
+      <div class="step"><b>Bestellen &amp; zahlen</b>Artikel und Größe wählen, mit der EduPay-Karte bezahlen.</div>
+      <div class="step"><b>Produktion bei Texora</b>Veredelt und pro Schüler mit Namen verpackt.</div>
+      <div class="step"><b>Ausgabe in der Schule</b>Gesammelte Lieferung, die Übungsfirma verteilt.</div>
+    </div>
+  </section>
+</main>
+
+<footer>Demo-Ansicht · Bilder, Preise und Texte sind Platzhalter · Technik: Texora</footer>
+
+<div class="overlay" id="ov"><div class="sheet" id="sheet"></div></div>
+<div class="toast" id="toast"></div>
+
+<script>
+const ICON={
+ hoodie:'<svg viewBox="0 0 100 100"><path d="M35 18c3 8 27 8 30 0l20 10 10 28-14 5-4-12v45H23V49l-4 12-14-5 10-28z" fill="COL" stroke="#33415588" stroke-width="2"/><path d="M38 20c0 10 24 10 24 0" fill="none" stroke="#33415588" stroke-width="2"/><rect x="38" y="62" width="24" height="12" rx="3" fill="none" stroke="#33415566" stroke-width="2"/></svg>',
+ shirt:'<svg viewBox="0 0 100 100"><path d="M37 16c4 7 22 7 26 0l22 10 8 20-14 6-3-8v48H24V44l-3 8-14-6 8-20z" fill="COL" stroke="#33415588" stroke-width="2"/></svg>',
+ cap:'<svg viewBox="0 0 100 100"><path d="M18 62c0-22 14-36 32-36s32 14 32 36z" fill="COL" stroke="#33415588" stroke-width="2"/><path d="M50 62h42c0 6-10 10-24 10H50z" fill="COL" stroke="#33415588" stroke-width="2"/><circle cx="50" cy="26" r="3" fill="#33415588"/></svg>',
+ beanie:'<svg viewBox="0 0 100 100"><path d="M22 66c0-26 12-40 28-40s28 14 28 40z" fill="COL" stroke="#33415588" stroke-width="2"/><rect x="18" y="62" width="64" height="16" rx="4" fill="COL" stroke="#33415588" stroke-width="2"/><circle cx="50" cy="22" r="7" fill="COL" stroke="#33415588" stroke-width="2"/></svg>',
+ bag:'<svg viewBox="0 0 100 100"><path d="M38 34c0-14 24-14 24 0" fill="none" stroke="#33415599" stroke-width="3"/><rect x="24" y="34" width="52" height="50" rx="3" fill="COL" stroke="#33415588" stroke-width="2"/></svg>',
+ band:'<svg viewBox="0 0 100 100"><ellipse cx="50" cy="52" rx="34" ry="14" fill="none" stroke="COL" stroke-width="12"/><ellipse cx="50" cy="52" rx="34" ry="14" fill="none" stroke="#33415555" stroke-width="1.5"/></svg>'
+};
+const COLORS={Blau:'#4a78a8',Beige:'#d9c7a7',Schwarz:'#2d2f33',Grau:'#9aa1aa',Türkis:'#56b8c4'};
+const P=[
+ {id:'h',n:'Hoodie',i:'hoodie',p:35,c:['Blau','Grau','Schwarz','Beige'],s:['XS','S','M','L','XL']},
+ {id:'t',n:'T-Shirt',i:'shirt',p:15,c:['Schwarz','Beige','Blau','Grau'],s:['XS','S','M','L','XL']},
+ {id:'k',n:'Kappe',i:'cap',p:18,c:['Schwarz','Blau','Beige'],s:['Einheitsgröße']},
+ {id:'m',n:'Mütze',i:'beanie',p:14,c:['Grau','Schwarz','Blau'],s:['Einheitsgröße']},
+ {id:'b',n:'Baumwolltasche',i:'bag',p:9,c:['Beige','Schwarz'],s:['–']},
+ {id:'s',n:'Stirnband',i:'band',p:8,c:['Türkis','Blau','Grau'],s:['Einheitsgröße']}
+];
+const eur=v=>v.toFixed(2).replace('.',',')+' €';
+const cart=[];const sel={};
+const grid=document.getElementById('grid');
+P.forEach(p=>{
+  sel[p.id]={c:p.c[0],s:p.s.length>2?'M':p.s[0]};
+  const d=document.createElement('div');d.className='card';
+  d.innerHTML=`<div class="pic" id="pic-${p.id}"></div>
+  <div class="body"><div class="name">${p.n}</div>
+  <div class="price">${eur(p.p)} <small>Beispielpreis</small></div>
+  <div class="dots">${p.c.map(c=>`<span class="dot" title="${c}" data-c="${c}" style="background:${COLORS[c]}"></span>`).join('')}</div>
+  <div class="row"><select aria-label="Größe">${p.s.map(s=>`<option ${s===sel[p.id].s?'selected':''}>${s}</option>`).join('')}</select></div>
+  <button class="add">In den Warenkorb</button></div>`;
+  grid.appendChild(d);
+  const paint=()=>{document.getElementById('pic-'+p.id).innerHTML=ICON[p.i].replaceAll('COL',COLORS[sel[p.id].c]);
+    d.querySelectorAll('.dot').forEach(x=>x.classList.toggle('on',x.dataset.c===sel[p.id].c));};
+  d.querySelectorAll('.dot').forEach(x=>x.onclick=()=>{sel[p.id].c=x.dataset.c;paint();});
+  d.querySelector('select').onchange=e=>sel[p.id].s=e.target.value;
+  d.querySelector('.add').onclick=()=>{cart.push({n:p.n,p:p.p,c:sel[p.id].c,s:sel[p.id].s});upd();toast(p.n+' ('+sel[p.id].c+') im Warenkorb');};
+  paint();
+});
+function upd(){document.getElementById('count').textContent=cart.length;}
+function toast(t){const e=document.getElementById('toast');e.textContent=t;e.classList.add('show');clearTimeout(e._t);e._t=setTimeout(()=>e.classList.remove('show'),1600);}
+const ov=document.getElementById('ov'),sh=document.getElementById('sheet');
+ov.onclick=e=>{if(e.target===ov)ov.classList.remove('open')};
+document.getElementById('cartBtn').onclick=showCart;
+function showCart(){
+  const sum=cart.reduce((a,b)=>a+b.p,0);
+  sh.innerHTML=`<button class="close" onclick="ov.classList.remove('open')">×</button><h2>Warenkorb</h2>`+
+   (cart.length?cart.map((x,i)=>`<div class="item"><span>${x.n} · ${x.c} · ${x.s}</span><span>${eur(x.p)} <button class="rm" data-i="${i}">entfernen</button></span></div>`).join('')+
+   `<div class="sum"><span>Summe</span><span>${eur(sum)}</span></div>
+   <label>Vor- und Nachname</label><input id="nm" placeholder="z. B. Lena Muster">
+   <label>Klasse</label><input id="kl" placeholder="z. B. 3A">
+   <button class="pay" id="pay" disabled>💳 Mit EduPay bezahlen</button>
+   <div class="hint">Name und Klasse kommen aufs Paket – so findet jeder seine Bestellung bei der Ausgabe.</div>`
+   :`<p class="hint">Noch nichts ausgewählt.</p>`);
+  sh.querySelectorAll('.rm').forEach(b=>b.onclick=()=>{cart.splice(+b.dataset.i,1);upd();showCart();});
+  const nm=sh.querySelector('#nm'),kl=sh.querySelector('#kl'),pay=sh.querySelector('#pay');
+  if(pay){const chk=()=>pay.disabled=!(nm.value.trim()&&kl.value.trim());nm.oninput=chk;kl.oninput=chk;
+    pay.onclick=()=>done(nm.value.trim(),kl.value.trim(),sum);}
+  ov.classList.add('open');
+}
+function done(n,k,sum){
+  const nr='SCH-'+Math.floor(1000+Math.random()*9000);
+  sh.innerHTML=`<div class="done"><div class="check">✓</div><h2>Danke, ${n.split(' ')[0]}!</h2>
+  <p>Bestellung <b>${nr}</b> · ${eur(sum)} mit EduPay bezahlt</p></div>
+  <ul class="track">
+   <li class="now">Bestellt und bezahlt</li>
+   <li>Bestellfenster schließt am 12.03.</li>
+   <li>Produktion bei Texora – Paket mit „${n} · ${k}“</li>
+   <li>Ausgabe in der Schule durch die Übungsfirma</li></ul>
+  <button class="pay" onclick="ov.classList.remove('open')">Fertig</button>`;
+  cart.length=0;upd();
+}
+(function(){const end=new Date(new Date().getFullYear()+(new Date().getMonth()>2?1:0),2,12);
+ document.getElementById('days').textContent=Math.max(0,Math.ceil((end-new Date())/864e5));})();
+</script>
+</body>
+</html>
