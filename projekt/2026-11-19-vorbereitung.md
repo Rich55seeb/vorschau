@@ -20,7 +20,7 @@
 | 0:40–1:00 | Firmenrundgang | Produktion zeigen: Siebdruck, Transferdruck, Stick live | Verständnis Technik |
 | 1:00–1:35 | Schauraum | Artikel angreifen, Katalog, Veredelungs-Vergleich, Preise | Auswahl 5–10 Muster |
 | 1:35–1:50 | **Wie geht's weiter** | Nächste Schritte mit Datum und Namen festhalten | Fahrplan |
-| 1:50–2:00 | Abschluss | Muster + Leihliste übergeben, Foto für Social Media/Plakat | alle wissen Bescheid |
+| 1:50–2:00 | Abschluss | Muster + Leihliste übergeben, Foto für Social Media/Plakat (nur mit Einverständnis, sonst nur Hände/Ware) | alle wissen Bescheid |
 
 Wenn es eng wird: Rundgang kürzen, **nie** das Gespräch am Anfang.
 
@@ -118,6 +118,7 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 - [ ] Leihliste für die Muster (Artikel, Größe, Farbe, Unterschrift, Rückgabedatum)
 - [ ] Säcke/Taschen zum Mitnehmen der Muster
 - [ ] Mitarbeiter für Live-Vorführung an den Maschinen einteilen
+- [ ] Bei der Lehrkraft fragen: Gibt es Foto-Einverständniserklärungen (DSGVO, bei Minderjährigen auch Eltern)? Wenn nein → nur Hände/Ware fotografieren, keine Gesichter.
 - [ ] Getränke, kleine Jause
 
 **Präsentation?** Keine große PowerPoint. Die Projekt-Seite + Flipchart + echte Ware wirken bei Schülern stärker als Folien.
