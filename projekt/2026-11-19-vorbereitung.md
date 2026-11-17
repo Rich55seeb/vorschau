@@ -6,7 +6,7 @@
 2. 5–10 Musterartikel gehen mit in die Schule
 3. Wie es weitergeht (bis wann, wie, wer)
 
-> Annahme: ca. 2,5 Stunden. Zeiten anpassen, sobald die Dauer feststeht.
+> Dauer: ca. 2 Stunden.
 
 ---
 
@@ -15,12 +15,14 @@
 | Zeit | Teil | Was passiert | Ergebnis |
 |---|---|---|---|
 | 0:00–0:10 | Ankommen | Begrüßung, Getränk, kurze Vorstellungsrunde (Name, Klasse, Rolle in der Übungsfirma) | lockere Stimmung |
-| 0:10–0:25 | **Zuerst zuhören** | 3 Fragen an die Schüler (siehe unten). Richard hört zu, schreibt mit. | Du weißt, wo sie stehen |
-| 0:25–0:45 | **Gemeinsames Bild** | Die Projekt-Seite gemeinsam durchgehen (siehe unten), Lücken direkt ausfüllen | 1-Seiter fertig |
-| 0:45–1:15 | Firmenrundgang | Produktion zeigen: Siebdruck, Transferdruck, Stick live | Verständnis Technik |
-| 1:15–1:55 | Schauraum | Artikel angreifen, Katalog, Veredelungs-Vergleich, Preise | Auswahl 5–10 Muster |
-| 1:55–2:15 | **Wie geht's weiter** | Nächste Schritte mit Datum und Namen festhalten | Fahrplan |
-| 2:15–2:30 | Abschluss | Muster + Leihliste übergeben, Foto für Social Media/Plakat | alle wissen Bescheid |
+| 0:10–0:20 | **Zuerst zuhören** | 3 Fragen an die Schüler (siehe unten). Richard hört zu, schreibt mit. | Du weißt, wo sie stehen |
+| 0:20–0:40 | **Gemeinsames Bild** | Die Projekt-Seite gemeinsam durchgehen (siehe unten), Lücken direkt ausfüllen | 1-Seiter fertig |
+| 0:40–1:00 | Firmenrundgang | Produktion zeigen: Siebdruck, Transferdruck, Stick live | Verständnis Technik |
+| 1:00–1:35 | Schauraum | Artikel angreifen, Katalog, Veredelungs-Vergleich, Preise | Auswahl 5–10 Muster |
+| 1:35–1:50 | **Wie geht's weiter** | Nächste Schritte mit Datum und Namen festhalten | Fahrplan |
+| 1:50–2:00 | Abschluss | Muster + Leihliste übergeben, Foto für Social Media/Plakat | alle wissen Bescheid |
+
+Wenn es eng wird: Rundgang kürzen, **nie** das Gespräch am Anfang.
 
 **Reihenfolge ist Absicht:** erst zuhören, dann erklären, dann zeigen. Wer zuerst die Maschinen sieht, redet danach nur noch über Hoodies.
 
@@ -78,7 +80,7 @@ Zusammengehörigkeit an der Schule stärken – so wie College-/Uni-Merch. Und e
 
 ## Teil 3 – Rundgang & Schauraum: was zeigen?
 
-**Rundgang (kurz halten, 30 Min.):** je Verfahren ein Stück live entstehen lassen.
+**Rundgang (kurz halten, 20 Min.):** je Verfahren ein Stück live entstehen lassen.
 
 **Veredelungs-Vergleich (wichtigster Lerneffekt):**
 Ein Motiv (z. B. Schullogo oder „dein Weg“) auf demselben Artikel in **Siebdruck, Transferdruck, Stick** nebeneinander. Dazu je eine Zeile:
