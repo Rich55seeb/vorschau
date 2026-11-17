@@ -24,6 +24,8 @@
 
 Wenn es eng wird: Rundgang kürzen, **nie** das Gespräch am Anfang.
 
+**Unterlagen:** `Spickzettel_Richard_19-11-2026.pdf` (nur für Richard, Ablauf + Formulierungen) und `Projekt-Seite_19-11-2026.pdf` (2 Seiten: **Teil 1 „Eure Sicht“** mit den 3 Fragen zum Ausfüllen – zuerst austeilen; **Teil 2 „Unser Vorschlag“** als Entwurf – erst danach gemeinsam durchgehen und anpassen).
+
 **Reihenfolge ist Absicht:** erst zuhören, dann erklären, dann zeigen. Wer zuerst die Maschinen sieht, redet danach nur noch über Hoodies.
 
 ---
@@ -109,7 +111,7 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 ## Checkliste – was du vorbereitest
 
 - [ ] Termin 19.11. + Uhrzeit mit der Lehrkraft bestätigen
-- [ ] Projekt-Seite ausdrucken (pro Person 1× + 1× für dich)
+- [ ] Projekt-Seite ausdrucken (2 Seiten, beidseitig; pro Person 1× + 1× für dich) und Spickzettel für dich
 - [ ] Flipchart / großer Bogen + Stifte
 - [ ] Veredelungs-Vergleich: vorhandene fertige Stücke aus dem Schauraum/früheren Aufträgen – je Verfahren (Siebdruck, Transfer, Stick) ein ähnlicher Artikel, z. B. jeweils ein Hoodie. Nichts extra anfertigen.
 - [ ] Muster bereitlegen (Hoodie, T-Shirt, Kappe, Mütze, Stirnband, Tasche)
