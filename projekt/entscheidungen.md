@@ -28,7 +28,7 @@
 | 2026-11-17 | **Ansprechperson Texora:** Jasmin – fix für das ganze Schuljahr. Richard bleibt für große Entscheidungen zuständig. Jasmin macht am 19.11. den Rundgang. |
 | 2026-11-17 | **Erstes Bestellfenster: zu Ostern 2027** (ca. Ende Februar – Mitte März; Ostern = 28.3.2027). Kein Verkauf vor Weihnachten. Wird den Schülern am 19.11. so gesagt. |
 | 2026-11-17 | **Rückmeldung der Schüler:** Umfrageergebnis + Wunschartikel bis Donnerstag, 3.12.2026, per Mail an Jasmin. |
-| 2026-11-18 | **Julia** (Gesamtvertrieb Texora) ist beim ersten Termin dabei und beobachtet, wie sich die Schüler entwickeln. **Jasmin** (Vertretung von Julia im Vertrieb) führt das Projekt weiter. |
+| 2026-11-18 | **Julia** (Gesamtvertrieb Texora) ist beim ersten Termin dabei, schreibt beim Gespräch auf dem Papierbogen mit und beobachtet, wie sich die Schüler entwickeln. **Jasmin** (Vertretung von Julia im Vertrieb) führt das Projekt weiter. |
 
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).

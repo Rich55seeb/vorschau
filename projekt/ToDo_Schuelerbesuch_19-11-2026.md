@@ -1,7 +1,7 @@
 # To-do: Schülerbesuch Übungsfirma – Donnerstag, 19.11.2026
 
 **Wer kommt:** 3–4 Schüler der Übungsfirma (evtl. mit Lehrkraft) · **Dauer:** ca. 2 Stunden · **Ort:** Schauraum
-**Von Texora dabei:** Richard · **Jasmin** (macht das Projekt weiter, fixe Ansprechperson der Schüler) · **Julia** (Gesamtvertrieb, schaut sich an, wie sich die Schüler entwickeln)
+**Von Texora dabei:** Richard · **Jasmin** (macht das Projekt weiter, fixe Ansprechperson der Schüler) · **Julia** (Gesamtvertrieb, schreibt beim Gespräch mit und schaut sich an, wie sich die Schüler entwickeln)
 
 ## Vorher erledigen
 
@@ -32,7 +32,7 @@
 |---|---|---|
 | ☐ | Schüler empfangen, Getränke anbieten | |
 | ☐ | Gespräch führen (zuerst zuhören, dann Vorschlag) | Richard |
-| ☐ | Antworten der Schüler auf dem Papierbogen mitschreiben | |
+| ☐ | Antworten der Schüler auf dem Papierbogen mitschreiben | Julia |
 | ☐ | Rundgang durch die Produktion | Jasmin |
 | ☐ | Im Schauraum beraten, Schüler wählen 5–10 Muster selbst | Jasmin |
 | ☐ | Beobachten: Wie arbeiten die Schüler, wer ist engagiert? Kurz notieren | Julia |

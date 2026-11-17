@@ -15,7 +15,7 @@ Getränk anbieten, Jasmin und Julia vorstellen (Jasmin = eure Ansprechperson, Ju
 > „Schön, dass ihr da seid. Heute geht's nicht darum, dass wir euch etwas verkaufen – ihr sollt ein eigenes Geschäft aufbauen. Wir sind euer Lieferant.“
 
 ### 0:10 – Zuhören
-Nur **Teil 1** des Blatts austeilen (Teil 2 liegt unten). Die 3 Fragen stellen, Schüler schreiben mit, Antworten auf dem großen Papierbogen mitschreiben.
+Nur **Teil 1** des Blatts austeilen (Teil 2 liegt unten). Die 3 Fragen stellen. Schüler schreiben auf ihr Blatt, **Julia** schreibt die Antworten auf den großen Papierbogen – du hörst nur zu.
 > „Bevor ich etwas erzähle: Was wisst ihr schon? Was wollt ihr bis Sommer erreicht haben? Was erwartet ihr euch von uns?“
 
 ⚠️ Nicht korrigieren, nicht gleich erklären. Nachfragen: „Wie meinst du das?“ – Ansprechperson der Schüler eintragen lassen.
