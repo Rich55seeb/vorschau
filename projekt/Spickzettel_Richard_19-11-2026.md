@@ -1,5 +1,5 @@
 # Spickzettel – Donnerstag, 19.11.2026
-**Nur für Richard – nicht austeilen** · 3–4 Schüler der Übungsfirma · ca. 2 Stunden · dabei: Jasmin
+**Nur für Richard – nicht austeilen** · 3–4 Schüler der Übungsfirma · ca. 2 Stunden · dabei: Jasmin, Julia
 
 **Ziel – am Ende steht fest:**
 1. Gemeinsames Bild auf Papier
@@ -11,11 +11,11 @@
 ---
 
 ### 0:00 – Ankommen
-Getränk anbieten, Jasmin vorstellen. Vorstellungsrunde: Name, Klasse, Rolle in der Übungsfirma.
+Getränk anbieten, Jasmin und Julia vorstellen (Jasmin = eure Ansprechperson, Julia = leitet unseren Vertrieb). Vorstellungsrunde: Name, Klasse, Rolle in der Übungsfirma.
 > „Schön, dass ihr da seid. Heute geht's nicht darum, dass wir euch etwas verkaufen – ihr sollt ein eigenes Geschäft aufbauen. Wir sind euer Lieferant.“
 
 ### 0:10 – Zuhören
-Nur **Teil 1** des Blatts austeilen (Teil 2 liegt unten). Die 3 Fragen stellen, Schüler schreiben mit, du schreibst aufs Flipchart.
+Nur **Teil 1** des Blatts austeilen (Teil 2 liegt unten). Die 3 Fragen stellen, Schüler schreiben mit, Antworten auf dem großen Papierbogen mitschreiben.
 > „Bevor ich etwas erzähle: Was wisst ihr schon? Was wollt ihr bis Sommer erreicht haben? Was erwartet ihr euch von uns?“
 
 ⚠️ Nicht korrigieren, nicht gleich erklären. Nachfragen: „Wie meinst du das?“ – Ansprechperson der Schüler eintragen lassen.
@@ -24,7 +24,7 @@ Nur **Teil 1** des Blatts austeilen (Teil 2 liegt unten). Die 3 Fragen stellen, 
 Jetzt **Teil 2** umdrehen.
 > „Das ist unser Vorschlag – ein Entwurf. Was nicht passt, streichen wir. Was fehlt, schreiben wir dazu.“
 
-Punkt für Punkt durchgehen und mit dem Flipchart vergleichen: „Passt das zu dem, was ihr vorhin gesagt habt?“ Abweichungen direkt reinschreiben.
+Punkt für Punkt durchgehen und mit dem Papierbogen vergleichen: „Passt das zu dem, was ihr vorhin gesagt habt?“ Abweichungen direkt reinschreiben.
 Wichtig ansprechen: erstes Bestellfenster **zu Ostern** · Bezahlung EduPay · Design und Preis machen **sie** · Jasmin ist Ansprechperson.
 
 ### 0:40 – Rundgang (macht Jasmin)
@@ -45,5 +45,5 @@ Alle unterschreiben Teil 2. Muster + Musterliste mitgeben. Foto nur mit Einverst
 ---
 
 **Danach (du):**
-- Unterschriebenes Blatt + Flipchart fotografieren und Claude schicken → Ergebnisse werden eingetragen.
+- Unterschriebenes Blatt + Papierbogen fotografieren und Claude schicken → Ergebnisse werden eingetragen.
 - Kopie des Blatts an die Lehrkraft mailen.
