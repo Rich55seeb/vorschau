@@ -112,7 +112,7 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 - [ ] Termin 19.11. + Uhrzeit mit der Lehrkraft bestätigen
 - [ ] Projekt-Seite ausdrucken (pro Person 1× + 1× für dich)
 - [ ] Flipchart / großer Bogen + Stifte
-- [ ] Veredelungs-Vergleich: 1 Motiv in Siebdruck, Transfer, Stick
+- [ ] Veredelungs-Vergleich: vorhandene fertige Stücke aus dem Schauraum/früheren Aufträgen – je Verfahren (Siebdruck, Transfer, Stick) ein ähnlicher Artikel, z. B. jeweils ein Hoodie. Nichts extra anfertigen.
 - [ ] Muster bereitlegen (Hoodie, T-Shirt, Kappe, Mütze, Stirnband, Tasche)
 - [ ] Katalog + **Lieferpreisliste an die Schule** (Texora-Preis inkl. Veredelung und Spanne = Einkaufspreis der Schüler). **Keine** echten Texora-Einkaufspreise zeigen!
 - [ ] Leihliste für die Muster (Artikel, Größe, Farbe, Unterschrift, Rückgabedatum)
