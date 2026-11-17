@@ -20,7 +20,7 @@
 | 0:40–1:00 | Firmenrundgang | Produktion zeigen: Siebdruck, Transferdruck, Stick live | Verständnis Technik |
 | 1:00–1:35 | Schauraum | Artikel angreifen, Katalog, Veredelungs-Vergleich, Preise | Auswahl 5–10 Muster |
 | 1:35–1:50 | **Wie geht's weiter** | Nächste Schritte mit Datum und Namen festhalten | Fahrplan |
-| 1:50–2:00 | Abschluss | Muster + Leihliste übergeben, Foto für Social Media/Plakat (nur mit Einverständnis, sonst nur Hände/Ware) | alle wissen Bescheid |
+| 1:50–2:00 | Abschluss | Muster + Musterliste übergeben, Foto für Social Media/Plakat (nur mit Einverständnis, sonst nur Hände/Ware) | alle wissen Bescheid |
 
 Wenn es eng wird: Rundgang kürzen, **nie** das Gespräch am Anfang.
 
@@ -103,7 +103,6 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 | Entscheidung: Pilot vor Weihnachten oder Start zu Ostern | gemeinsam, per Telefon/Mail | ________ |
 | Eigene Design-Entwürfe an Texora zur technischen Prüfung | Übungsfirma | ________ |
 | Freigabe der Schule für Schullogo/Schulname einholen (falls verwendet) | Übungsfirma | ________ |
-| Muster zurück oder übernehmen | Übungsfirma | ________ |
 
 ---
 
@@ -115,7 +114,7 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 - [ ] Veredelungs-Vergleich: vorhandene fertige Stücke aus dem Schauraum/früheren Aufträgen – je Verfahren (Siebdruck, Transfer, Stick) ein ähnlicher Artikel, z. B. jeweils ein Hoodie. Nichts extra anfertigen.
 - [ ] Muster bereitlegen (Hoodie, T-Shirt, Kappe, Mütze, Stirnband, Tasche)
 - [ ] Katalog + **Lieferpreisliste an die Schule** (Texora-Preis inkl. Veredelung und Spanne = Einkaufspreis der Schüler). **Keine** echten Texora-Einkaufspreise zeigen!
-- [ ] Leihliste für die Muster (Artikel, Größe, Farbe, Unterschrift, Rückgabedatum)
+- [ ] Musterliste (Artikel, Größe, Farbe) – nur zur Übersicht. Muster sind eine **Investition von Texora**, keine Verrechnung bei Verlust/Schaden.
 - [ ] Säcke/Taschen zum Mitnehmen der Muster
 - [ ] Mitarbeiter für Live-Vorführung an den Maschinen einteilen
 - [ ] Bei der Lehrkraft fragen: Gibt es Foto-Einverständniserklärungen (DSGVO, bei Minderjährigen auch Eltern)? Wenn nein → nur Hände/Ware fotografieren, keine Gesichter.
