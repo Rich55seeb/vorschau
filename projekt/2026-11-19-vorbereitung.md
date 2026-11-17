@@ -120,6 +120,7 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 - [ ] Säcke/Taschen zum Mitnehmen der Muster
 - [ ] Jasmin einplanen: ist dabei, macht den Rundgang/Live-Vorführung und wird als fixe Ansprechperson vorgestellt
 - [ ] Bei der Lehrkraft fragen: Gibt es Foto-Einverständniserklärungen (DSGVO, bei Minderjährigen auch Eltern)? Wenn nein → nur Hände/Ware fotografieren, keine Gesichter.
-- [ ] Getränke, kleine Jause
+- [ ] Ort: **Schauraum** (nicht das Büro) – Tisch + Sessel für 5–6 Personen herrichten
+- [ ] Getränke: ein paar Safterl
 
 **Präsentation?** Keine große PowerPoint. Die Projekt-Seite + Flipchart + echte Ware wirken bei Schülern stärker als Folien.
