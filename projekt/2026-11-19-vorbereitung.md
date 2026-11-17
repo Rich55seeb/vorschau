@@ -54,7 +54,7 @@ Zusammengehörigkeit an der Schule stärken – so wie College-/Uni-Merch. Und e
 - Am Ende schreibt ihr auf: „So funktioniert das bei uns“ – als Konzept für andere Schulen.
 
 **Was macht Texora?**
-- Muster, Katalog und Einkaufspreise.
+- Muster, Katalog und Lieferpreise an die Schule (= euer Einkaufspreis).
 - Wir zeigen, was technisch geht und was sich rechnet (Siebdruck, Transfer, Stick).
 - Wir prüfen eure Druckdateien und sagen ehrlich, wenn etwas nicht geht.
 - Wir stellen das Bestellportal, produzieren und liefern gesammelt an die Schule.
@@ -112,7 +112,7 @@ Ein Motiv (z. B. Schullogo oder „dein Weg“) auf demselben Artikel in **Siebd
 - [ ] Flipchart / großer Bogen + Stifte
 - [ ] Veredelungs-Vergleich: 1 Motiv in Siebdruck, Transfer, Stick
 - [ ] Muster bereitlegen (Hoodie, T-Shirt, Kappe, Mütze, Stirnband, Tasche)
-- [ ] Katalog + Einkaufspreisliste (nur für die Übungsfirma)
+- [ ] Katalog + **Lieferpreisliste an die Schule** (Texora-Preis inkl. Veredelung und Spanne = Einkaufspreis der Schüler). **Keine** echten Texora-Einkaufspreise zeigen!
 - [ ] Leihliste für die Muster (Artikel, Größe, Farbe, Unterschrift, Rückgabedatum)
 - [ ] Säcke/Taschen zum Mitnehmen der Muster
 - [ ] Mitarbeiter für Live-Vorführung an den Maschinen einteilen
