@@ -23,6 +23,7 @@
 | 2026-11-11 | **Startzeitpunkt flexibel:** Die zwei Fenster sind das Zielbild für die Zukunft. Ob das erste Fenster schon vor Weihnachten kommt oder erst zu Ostern, hängt davon ab, wie aktiv die Schüler sind. |
 | 2026-11-17 | **Termin Schülerbesuch im Unternehmen:** Donnerstag, 19.11.2026. Ablauf: zuerst Gespräch (Ziel, Aufgaben, gegenseitige Erwartungen, Stand der Schüler abfragen), dann Firma und Textilien/Veredelung zeigen. |
 | 2026-11-17 | **Preise für die Schüler:** Es wird nur der Lieferpreis von Texora an die Schule gezeigt (inkl. Veredelung und Spanne) – das ist der Einkaufspreis der Übungsfirma. Echte Texora-Einkaufspreise bleiben intern. |
+| 2026-11-17 | **Design:** Texora gibt kein Logo/Motiv vor. Die Schüler entwerfen das Design selbst – Teil ihres Geschäftsmodells. Texora prüft nur die technische Umsetzbarkeit. |
 
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).

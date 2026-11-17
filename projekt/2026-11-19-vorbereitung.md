@@ -83,7 +83,7 @@ Zusammengehörigkeit an der Schule stärken – so wie College-/Uni-Merch. Und e
 **Rundgang (kurz halten, 20 Min.):** je Verfahren ein Stück live entstehen lassen.
 
 **Veredelungs-Vergleich (wichtigster Lerneffekt):**
-Ein Motiv (z. B. Schullogo oder „dein Weg“) auf demselben Artikel in **Siebdruck, Transferdruck, Stick** nebeneinander. Dazu je eine Zeile:
+Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Aufträgen) in **Siebdruck, Transferdruck, Stick** nebeneinander. **Kein Schul-Design vorgeben** – das Design entwerfen die Schüler selbst (Teil ihres Geschäftsmodells). Dazu je eine Zeile:
 | Verfahren | gut für | nicht gut für | Preis-Tendenz |
 |---|---|---|---|
 | Siebdruck | große Mengen, wenige Farben | kleine Mengen, Fotos | günstig ab Menge |
@@ -101,6 +101,8 @@ Ein Motiv (z. B. Schullogo oder „dein Weg“) auf demselben Artikel in **Siebd
 | Umfrage in der Schule | Übungsfirma | ________ |
 | Ergebnis + Wunschartikel an Texora (Mail) | Übungsfirma | ________ |
 | Entscheidung: Pilot vor Weihnachten oder Start zu Ostern | gemeinsam, per Telefon/Mail | ________ |
+| Eigene Design-Entwürfe an Texora zur technischen Prüfung | Übungsfirma | ________ |
+| Freigabe der Schule für Schullogo/Schulname einholen (falls verwendet) | Übungsfirma | ________ |
 | Muster zurück oder übernehmen | Übungsfirma | ________ |
 
 ---
