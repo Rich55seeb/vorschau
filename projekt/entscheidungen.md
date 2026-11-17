@@ -26,9 +26,12 @@
 | 2026-11-17 | **Design:** Texora gibt kein Logo/Motiv vor. Die Schüler entwerfen das Design selbst – Teil ihres Geschäftsmodells. Texora prüft nur die technische Umsetzbarkeit. |
 | 2026-11-17 | **Muster:** Die 5–10 Muster für die Schule sind eine bewusste Investition von Texora (Ausnahme zu „Texora investiert nichts“). Keine Verrechnung bei Verlust oder Schaden. |
 | 2026-11-17 | **Ansprechperson Texora:** Jasmin – fix für das ganze Schuljahr. Richard bleibt für große Entscheidungen zuständig. Jasmin macht am 19.11. den Rundgang. |
+| 2026-11-17 | **Erstes Bestellfenster: zu Ostern 2027** (ca. Ende Februar – Mitte März; Ostern = 28.3.2027). Kein Verkauf vor Weihnachten. Wird den Schülern am 19.11. so gesagt. |
+| 2026-11-17 | **Rückmeldung der Schüler:** Umfrageergebnis + Wunschartikel bis Donnerstag, 3.12.2026, per Mail an Jasmin. |
 
 ## Offene Punkte / Risiken
 - Vereinbarung mit der Schule ist nur mündlich bzw. im Gesprächsmitschnitt; im Mitschnitt steht EduPay nur als „diskutiert“. Empfehlung: kurz schriftlich bestätigen lassen (Ablauf, Freigabe, Abrechnungsrhythmus, Warenübernahme).
 - Ansprechperson an der Schule (Freigabe, Rechnung) noch nicht namentlich festgehalten.
-- Wann und woran wird entschieden, ob das erste Bestellfenster vor Weihnachten oder erst zu Ostern startet? (Kein wöchentlicher Termin im Unternehmen gewünscht – Entscheidung kann per Telefon/Mail laufen.)
+- Genaue Termine für das Oster-Bestellfenster (Öffnung, Bestellschluss, Auslieferung) noch festlegen. Kein wöchentlicher Termin im Unternehmen – Abstimmung per Telefon/Mail.
+- Anerkennung/Provision für die Schüler noch offen (zum Projektende).
 - Termin 19.11. ist laut Richard so ausgemacht, aber nirgends eingetragen → kurz mit der Lehrkraft bestätigen.

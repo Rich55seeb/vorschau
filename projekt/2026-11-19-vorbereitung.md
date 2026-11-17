@@ -60,7 +60,7 @@ Zusammengehörigkeit an der Schule stärken – so wie College-/Uni-Merch. Und e
 - Wir stellen das Bestellportal, produzieren und liefern gesammelt an die Schule.
 
 **Spielregeln**
-- Bestellt wird nur in einem Bestellfenster (z. B. vor Weihnachten oder zu Ostern), dann Sammellieferung.
+- Bestellt wird nur in einem Bestellfenster, dann Sammellieferung. **Erstes Fenster: zu Ostern 2027.** So habt ihr Zeit für ein gutes Konzept.
 - Bezahlt wird über die EduPay-Karte. Die Rechnung geht an die Schule.
 - Texora finanziert nichts vor – alles wird bezahlt.
 - Ihr bekommt am Projektende eine Anerkennung (wird noch festgelegt).
@@ -98,9 +98,9 @@ Ein **neutrales Motiv** (z. B. Texora-Logo oder fertige Stücke aus früheren Au
 
 | Was | Wer | Bis wann |
 |---|---|---|
-| Umfrage in der Schule | Übungsfirma | ________ |
-| Ergebnis + Wunschartikel an Texora (Mail) | Übungsfirma | ________ |
-| Entscheidung: Pilot vor Weihnachten oder Start zu Ostern | gemeinsam, per Telefon/Mail | ________ |
+| Umfrage in der Schule | Übungsfirma | bis 3.12.2026 |
+| Ergebnis + Wunschartikel an Jasmin (Mail) | Übungsfirma | **Do, 3.12.2026** |
+| Erstes Bestellfenster: **zu Ostern** (ca. Ende Feb. – Mitte März 2027) – genaue Termine gemeinsam festlegen | gemeinsam, per Telefon/Mail | nach dem 3.12. |
 | Eigene Design-Entwürfe an Texora zur technischen Prüfung | Übungsfirma | ________ |
 | Freigabe der Schule für Schullogo/Schulname einholen (falls verwendet) | Übungsfirma | ________ |
 
